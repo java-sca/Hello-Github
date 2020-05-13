@@ -1,2 +1,3 @@
 # Hello-Github
-Hello~
+def hello():
+    print("hello,github")
